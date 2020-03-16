@@ -19,4 +19,3 @@ print(point.get("a"))
 
 for key,val in point.items():
     print(key,val)
-
